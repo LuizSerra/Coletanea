@@ -1,4 +1,4 @@
-# Coletanea
+# Coletânea
 Um projeto realizado em Android Nativo.
 
 A aplicação tem por objetivo servir como uma coletânea virtual.
